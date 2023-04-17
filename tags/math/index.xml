@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Think of a Name for Later</title>
+    <link>https://meltedmagic.github.io/tags/math/</link>
+    <description>Recent content in math on Think of a Name for Later</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Manu 2023</copyright>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://meltedmagic.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math, Physics, and Blogs</title>
+      <link>https://meltedmagic.github.io/posts/mpb/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meltedmagic.github.io/posts/mpb/</guid>
+      <description>Note: This page will continually be updated.
+Math and Physics Resources Elijan J. Mastnak - Physics and Math notes along with a guide to setup $\LaTeX$ and neovim.
+Dexter Chua - Somehow this guy took a lot of classes at Cambridge and managed to write lecture notes for all of the classes.
+Gilles Castel - This man optimised $\LaTeX$ beyond anything I thought imaginable.
+Christopher Pope - Physicist at Texas A&amp;amp;M University.</description>
+    </item>
+    
+  </channel>
+</rss>

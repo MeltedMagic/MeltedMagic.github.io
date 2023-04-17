@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Think of a Name for Later</title>
+    <link>https://meltedmagic.github.io/</link>
+    <description>Recent content on Think of a Name for Later</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Manu 2023</copyright>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://meltedmagic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://meltedmagic.github.io/about/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meltedmagic.github.io/about/</guid>
+      <description>A place to preserve my thoughts for the future and to archive anything I find interesting. I have attempted something similar before with gitbook under the title &amp;ldquo;What I Come Across&amp;rdquo; (You can see my github repo for this) but found the setup too cumbersome to maintain using a text editor. With this setup, I attempt to not desert this website like I did with my previous website since I just need to edit markdown files in one specific folder.</description>
+    </item>
+    
+    <item>
+      <title>Math, Physics, and Blogs</title>
+      <link>https://meltedmagic.github.io/posts/mpb/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meltedmagic.github.io/posts/mpb/</guid>
+      <description>Note: This page will continually be updated.
+Math and Physics Resources Elijan J. Mastnak - Physics and Math notes along with a guide to setup $\LaTeX$ and neovim.
+Dexter Chua - Somehow this guy took a lot of classes at Cambridge and managed to write lecture notes for all of the classes.
+Gilles Castel - This man optimised $\LaTeX$ beyond anything I thought imaginable.
+Christopher Pope - Physicist at Texas A&amp;amp;M University.</description>
+    </item>
+    
+    <item>
+      <title>Test Page</title>
+      <link>https://meltedmagic.github.io/posts/test/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meltedmagic.github.io/posts/test/</guid>
+      <description>About A place to preserve my thought process for the future and to archive anything I find interesting.
+Inline LaTeX $\frac{1}{2}$ Display LaTeX on its own line $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$</description>
+    </item>
+    
+    <item>
+      <title>The Pleasures and Pains of Coffee</title>
+      <link>https://meltedmagic.github.io/posts/blissbat/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://meltedmagic.github.io/posts/blissbat/</guid>
+      <description>Coffee is a great power in my life; I have observed its effects on an epic scale. Coffee roasts your insides. Many people claim coffee inspires them, but, as everybody knows, coffee only makes boring people even more boring. Think about it: although more grocery stores in Paris are staying open until midnight, few writers are actually becoming more spiritual.
+But as Brillat-Savarin has correctly observed, coffee sets the blood in motion and stimulates the muscles; it accelerates the digestive processes, chases away sleep, and gives us the capacity to engage a little longer in the exercise of our intellects.</description>
+    </item>
+    
+  </channel>
+</rss>
